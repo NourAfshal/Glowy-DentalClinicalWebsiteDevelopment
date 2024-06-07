@@ -222,12 +222,6 @@ feedbackForm.addEventListener("submit", (event) => {
 
 </section>
 
-<!-- process section ends -->
-
-<!-- reviews section starts  -->
-
-   
-<!-- Feedback section starts  -->
 
       <section id="feedback" class="reviews">
          <h1 class="heading">Feedback </h1>
@@ -271,7 +265,7 @@ feedbackForm.addEventListener("submit", (event) => {
       <div class="mx-auto my-5" style="max-width: 60%;">
       <div class="card map-card">
          <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
-         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.523697721611!2d35.828408174946915!3d34.438851797219016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1521f6abae6fbfe9%3A0x628a984fa6924ed2!2sCity%20Complex!5e0!3m2!1sen!2slb!4v1682444961159!5m2!1sen!2slb" width="600" height="450" style="border:0;" 
+         <iframe src="loaction" 
             allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             
          </div>
@@ -288,14 +282,13 @@ feedbackForm.addEventListener("submit", (event) => {
       <div class="box">
          <i class="fas fa-phone"></i>
          <h3>Phone Number</h3>
-         <p>+961 81 656788</p>
-         <p>+961 06 890543</p>
+         <p>number</p>
       </div>
       
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>Our Address</h3>
-         <p>Lebanon, Tripoli, City Complex</p>
+         <p>Location</p>
       </div>
 
       <div class="box">
@@ -307,9 +300,7 @@ feedbackForm.addEventListener("submit", (event) => {
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>Email Address</h3>
-         <p>NourH@gmail.com</p>
-         <p>NourA@gmail.com</p>
-         <p>ReemM@gmail.com</p>
+         <p>example@gmail.com</p>
       </div>
       
    </div>
